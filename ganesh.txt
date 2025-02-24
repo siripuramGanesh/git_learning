@@ -2,3 +2,8 @@ ganesh
 ganeshsub1
 karam
 full oil
+
+#egg dosa
+dosa flour
+2 eggs
+karam
