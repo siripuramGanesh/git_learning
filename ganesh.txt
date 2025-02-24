@@ -4,6 +4,7 @@ karam
 full oil
 
 #egg dosa
+3 eggs
+oil
 dosa flour
 2 eggs
-karam
