@@ -3,3 +3,6 @@ ganeshsub1
 karam
 full oil
 
+#egg dosa
+3 eggs
+oil
